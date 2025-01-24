@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+.contact_form{
+    width:50vw;
+    height: 70vw;
+    position: relative;
+    background-color: aqua;
+    border: 2px solid black;
+    margin: auto;
+
+}
+.form{
+    position: relative;
+    width:30vw;
+    margin:  auto;
+}
+h1{
+    text-align:center;
+}
+input{
+    background-color: transparent;
+}
+button{
+    background-color:rgb(164, 157, 157);
+}
